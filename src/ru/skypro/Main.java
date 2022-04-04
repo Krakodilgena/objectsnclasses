@@ -1,8 +1,11 @@
 package ru.skypro;
 
 import java.awt.print.Book;
+import src.ru.skypro.Author;
+import src.ru.skypro.Book;
 
 public class Main {
+
 
     public static void main(String[] args) {
 	Author author = new Author("Дима", "Маслеников");
